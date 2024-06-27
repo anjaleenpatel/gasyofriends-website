@@ -1,0 +1,20 @@
+.home-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #282c34; /* Optional: add a background color */
+}
+
+.home-content {
+  text-align: center;
+  color: #ff69b4; /* Bright pink text */
+}
+
+.home-content h1 {
+  font-size: 3rem; /* Adjust as needed */
+}
+
+.home-content p {
+  font-size: 1.5rem; /* Adjust as needed */
+}

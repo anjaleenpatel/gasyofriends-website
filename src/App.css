@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f9f9f9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  font-family: 'Pacifico', cursive; /* Choose a cute font */
+  font-size: 24px;
+  color: #ff69b4; /* Bright pink color */
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  text-decoration: none;
+  color: #61dafb;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
