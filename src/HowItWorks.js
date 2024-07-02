@@ -8,7 +8,7 @@ const HowItWorks = () => {
       <p>Welcome to our service, a platform dedicated to fostering kindness and positivity through anonymous compliments. In today's fast-paced world, a kind word can go a long way, and our service aims to make it easier than ever to share and receive positive messages. Here's how it works:</p>
       
       <h2>SIGNUP: To sign up for the service</h2>
-      <p><strong>How:</strong> Simply text <code>SIGNUP</code> to our service number.</p>
+      <p><strong>How:</strong> Simply text <code>SIGNUP</code> to +1 844 986 3823.</p>
       <p><strong>What Happens Next:</strong> You'll be registered in our system and ready to start sending and receiving compliments.</p>
 
       <h2>SEND: To send a compliment</h2>
