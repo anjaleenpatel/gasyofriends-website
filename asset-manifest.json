@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gasyofriends-website/static/css/main.a1091be8.css",
-    "main.js": "/gasyofriends-website/static/js/main.55dfc7f4.js",
-    "static/js/453.de79ec0b.chunk.js": "/gasyofriends-website/static/js/453.de79ec0b.chunk.js",
-    "index.html": "/gasyofriends-website/index.html",
-    "main.a1091be8.css.map": "/gasyofriends-website/static/css/main.a1091be8.css.map",
-    "main.55dfc7f4.js.map": "/gasyofriends-website/static/js/main.55dfc7f4.js.map",
-    "453.de79ec0b.chunk.js.map": "/gasyofriends-website/static/js/453.de79ec0b.chunk.js.map"
+    "main.css": "/static/css/main.a1091be8.css",
+    "main.js": "/static/js/main.f902efec.js",
+    "static/js/453.de79ec0b.chunk.js": "/static/js/453.de79ec0b.chunk.js",
+    "index.html": "/index.html",
+    "main.a1091be8.css.map": "/static/css/main.a1091be8.css.map",
+    "main.f902efec.js.map": "/static/js/main.f902efec.js.map",
+    "453.de79ec0b.chunk.js.map": "/static/js/453.de79ec0b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a1091be8.css",
-    "static/js/main.55dfc7f4.js"
+    "static/js/main.f902efec.js"
   ]
 }
